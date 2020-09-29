@@ -16,8 +16,6 @@ CATEGORY
     
 USAGE
 
-    example
-
     % python reverse-complement.py -i filename 
     
     example
@@ -46,7 +44,6 @@ with open(args['input'],'r') as readFile:
         else:
             sequence += line.strip()
     
-#turn sequence into capital letters
 sequence = sequence.upper()
 
 # Dictionary containing the complement equivalents
