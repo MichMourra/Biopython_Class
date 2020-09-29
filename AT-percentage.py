@@ -14,7 +14,7 @@ CATEGORY
         Genomic sequence
 
 USAGE
-    example
+
     % python AT-percentage.py -i filename
     
     example
